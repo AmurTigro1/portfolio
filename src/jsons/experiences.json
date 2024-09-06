@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "company": "Mater Dei College",
+      "title": "Software Engineer (Assoc. Manager)",
+      "duration": "August 2025 - Present",
+      "tasks": [
+        "Assisted in the development and testing of internal software applications.",
+        "Provided technical support for end-users, resolving hardware and software issues.",
+        "Collaborated with a team of developers to implement new features in web applications.",
+        "Designed and implemented responsive web pages using HTML, CSS, and JavaScript, enhancing user engagement by 30%.",
+        "Conducted usability testing and provided feedback to improve site navigation and user experience.",
+        "Collaborated with designers to ensure visual consistency across multiple browsers and devices."
+      ]
+    },
+    {
+      "company": "Business Machine Corporation",
+      "title": "Service Techician",
+      "duration": "April 2008 - March 2009",
+      "tasks": [
+        "Installed equipment on-site.",
+        "Fixed defective or broken equipment",
+        "Provided instructions to customers on the proper usage of their equipment."
+      ]
+    }
+  ]
+}

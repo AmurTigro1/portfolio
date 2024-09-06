@@ -1,0 +1,38 @@
+{
+  "data_1": [
+    { "birthday": "14 April 2003" },
+    { "phone": "+63 938-514-8283" },
+    { "address": "Poblacion, Centro, Clarin, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>sternsalera878@gmail.com</a>" }
+  
+  ],
+  "data_3": [
+    "Poblacion, Centro, Clarin, Bohol, Philippines",
+    "+63 938-514-8283",
+    "<a href='mailto:someone@example.com'>sternsalera878@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2019 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan 6329 Tubigon, Philippines"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2018",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2010 - 2015",
+      "school": "Clarin Central Elementary School",
+      "address": "Poblacion, Centro, Clarin, Boholl"
+    }
+  ]
+}

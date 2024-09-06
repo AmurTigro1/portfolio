@@ -1,0 +1,17 @@
+{
+  "techs_1": [
+    { "name": "JavaScript", "rate": "20" },
+    { "name": "VueJS", "rate": "45" },
+    { "name": "Mysql", "rate": "60" },
+    { "name": "CSS", "rate": "60" },
+    { "name": "HTML5", "rate": "65" }
+
+  ],
+  "techs_2": [
+    { "name": "Laravel", "rate": "50" },
+    { "name": "HTML5", "rate": "65" },
+    { "name": "Microsoft Power Point", "rate": "70" },
+    { "name": "Microsoft Word", "rate": "75" },
+    { "name": "Microsoft Excel", "rate": "70" }
+  ]
+}
