@@ -2,11 +2,11 @@ import parse from 'html-react-parser';
 
 // Constants
 import { NAME } from 'constants/common';
-import { RESUME_TEXT_1, RESUME_TEXT_2 } from 'constants/common';
+// import { RESUME_TEXT_1, RESUME_TEXT_2 } from 'constants/common';
 
 // Jsons
 import Profiles from 'jsons/profiles.json';
-import Experiences from 'jsons/experiences.json';
+// import Experiences from 'jsons/experiences.json';
 
 // Styles
 import './resume.scss';
